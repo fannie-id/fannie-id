@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hello everyone!<br>🤩I'm currently learning Java and React.<br>👁️I'm looking for a job as a fullstack or backend developer.<br>👓I was a UX Designer in different scrum team for 8 years.<br>🎨I'm interested in cooking, sport, singing, drawing.<br><br>
+Hello everyone!<br>🤩I'm currently learning Java and React.<br>👁️I'm looking for a job as a fullstack or backend developer.<br>👓I was an UX Designer in different scrum team for 8 years.<br>🎨I'm interested in cooking, sport, singing, drawing.<br><br>
 
 
 ## 🌐 Socials:
